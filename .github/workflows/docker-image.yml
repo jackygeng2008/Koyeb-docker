@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: troson2007/test061601
+          tags: troson2007/test062201
